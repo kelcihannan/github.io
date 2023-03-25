@@ -7,7 +7,7 @@ navbar:
   right: 
     - icon: fa-envelope fa-lg
       href: mailto:kelcihannan@gmail.com
-    - icon: fa-brands fa-linkedin-in
+    - icon: fab fa-linkedin
       href: https://www.linkedin.com/in/kelci-hannan/
     - icon: fa-github fa-lg
       href: http://github.com/kelcihannan/
